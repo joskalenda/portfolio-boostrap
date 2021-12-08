@@ -21,7 +21,7 @@ body {
   display: none;
 }
 
-.header--section {
+.nav {
   display: flex;
   justify-content: space-between;
   padding: 10px 24px;
