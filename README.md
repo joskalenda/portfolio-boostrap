@@ -41,7 +41,7 @@ Additional description about the project and its features.
 
 👤 **Author2**
 
-- GitHub: [github](https://github.com/VSeray)
+- GitHub: [@VSeray](https://github.com/VSeray)
 
 - Twitter: [twitter](https://twitter.com/home)
 
