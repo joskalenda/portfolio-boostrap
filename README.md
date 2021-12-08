@@ -30,7 +30,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://joskalenda.github.io/portfolio/)
+[Live Demo Link](https://joskalenda.github.io/portfolio-boostrap/)
 
 ## Authors
 
